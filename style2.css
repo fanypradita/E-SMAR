@@ -1,0 +1,45 @@
+.bg-petanikode {
+    background: #008080;
+}
+.bg-petanikode1 {
+    background: #008080;
+    padding: 25px;
+}
+
+.card-post.card-deck .card {
+    margin-bottom: 1.5em !important;
+}
+
+.card-post-link, .card-post-link:hover {
+    text-decoration: none;
+}
+
+.widget {
+    margin-bottom: 1.5em !important;
+}
+.utama{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.container1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 500px;
+}
+.dropdown:hover {
+    border-bottom:none;
+  }
+  #container > nav > ul > .dropdown:hover >  .dd
+  {
+    display:block;
+  }
+  .dropdown:hover > a .fa-caret-down {
+    display:none;
+  }
+  a {
+    text-decoration:none;
+  
+  }
+
+
